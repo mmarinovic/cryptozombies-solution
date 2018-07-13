@@ -1,2 +1,2 @@
-# cryptozombies-solution
-https://cryptozombies.io/ solution
+# CryptoZombies solution
+https://cryptozombies.io/
